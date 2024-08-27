@@ -1,0 +1,1 @@
+import{f as a,o as e,c as o,s as t}from"./DkmPUy5X.js";const n=["data-star"],p=a({__name:"BaseRating",props:{value:{},classes:{}},setup(r){return(s,l)=>(e(),o("i",{"data-star":s.value,class:t(s.classes)},null,10,n))}});export{p as _};

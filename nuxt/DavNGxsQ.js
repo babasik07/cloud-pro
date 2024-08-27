@@ -1,0 +1,1 @@
+var r=(s=>(s.Cloud="cloud",s.Startup="startup-program",s.LookingGlass="looking-glass",s.VPSReviews="vps-reviews",s.Pricing="pricing",s.DevopsAsAService="devops-as-a-service",s))(r||{});export{r as R};

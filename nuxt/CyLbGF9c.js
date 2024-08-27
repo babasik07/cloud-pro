@@ -1,0 +1,1 @@
+import{A as t}from"./DkmPUy5X.js";const r=s=>{if(s&&s.includes("cloudzy")){const a=t().public.SITE_URL,n=a.slice(0,-1);try{const e=new URL(s);return e.pathname.includes("/api/v1")?`${n}${e.pathname}${e.search}${e.hash}`:`${a}api/v1${e.pathname}${e.search}${e.hash}`}catch(e){return console.error("Invalid URL provided :",e),s}}else return s||""};export{r as u};

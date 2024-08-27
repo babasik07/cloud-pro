@@ -1,0 +1,1 @@
+import{f as l,o,c as r,r as t,s as n}from"./DkmPUy5X.js";const p=l({__name:"BaseFullWidthContainer",props:{classes:{}},setup(e){const s=e;return(a,c)=>(o(),r("div",{class:n(["relative left-2/4 -ml-[50vw] w-screen md:-ml-[50vw] md:w-[100vw]",s.classes])},[t(a.$slots,"default")],2))}});export{p as _};

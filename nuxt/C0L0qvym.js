@@ -1,0 +1,3 @@
+import { u as n, a2 as g } from "./DkmPUy5X.js";
+const c = (t, e, r, o = { width: 1200, height: 630 }, p) => { n({ title: p || t, meta: [{ name: "description", content: e }, { property: "og:description", content: e }, { property: "og:title", content: p || t }, { property: "og:url", content: g() }, { property: "og:image", content: r ? ? "Cloudzy_Opengraph.webp" }, { property: "og:image:alt", content: "cloudzy" }, { property: "og:image:width", content: o.width }, { property: "og:image:height", content: o.height }, { property: "og:image:type", content: "webp" }] }) };
+export { c as u };

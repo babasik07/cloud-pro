@@ -1,0 +1,1 @@
+import{A as s,C as c}from"./DkmPUy5X.js";const l=()=>{const e=s().public.API_URL;return{fetchData:async a=>{var r;try{const{data:t,pending:o,error:n}=await c(`${e}${a}`,"$UqgiltlUfE");return{data:(r=t._rawValue)==null?void 0:r.data,isLoading:o.value,error:n.value}}catch{console.log("endpoint error:",a)}}}};export{l as u};

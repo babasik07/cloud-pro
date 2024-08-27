@@ -1,0 +1,3 @@
+import { u as e, S as t } from "./DkmPUy5X.js";
+const a = () => { e({ script: [{ type: t, children: JSON.stringify({ "@context": "https://schema.org", "@type": "LocalBusiness", name: "Cloudzy", image: "navbarLogo.svg", "@id": "https://cloudzy.com", url: "", telephone: "+1-332-600-4050", priceRange: "$4.95 - $54.95", address: { "@type": "PostalAddress", streetAddress: "11 Brooklyn", addressLocality: "New York", addressRegion: "NY", postalCode: "NY 100064", addressCountry: "US" }, aggregateRating: { "@type": "AggregateRating", ratingValue: 4.9, bestRating: "5", worstRating: "1", ratingCount: 75 } }) }] }) };
+export { a as u };

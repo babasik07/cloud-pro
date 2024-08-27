@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /cart/
+Sitemap: sitemap.xml
+Host: https://cloudzy.com
